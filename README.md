@@ -1,1 +1,0 @@
-# synchronous_generator_frequency.py
